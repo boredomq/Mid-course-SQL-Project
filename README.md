@@ -1,4 +1,5 @@
 # Mid-course-SQL-Project
+Data-base script: https://drive.google.com/drive/folders/1cYND4uZf-f5EZ-WtxtzoBgWwNB9-NIVl?usp=sharing (too large for to uplodad here)
 There're 8 questions that are needed to be solved, as they show a Website performance, including one of the products
 
 QUESTION 1 : Gsearch seems to be the biggest driver of our business. 
